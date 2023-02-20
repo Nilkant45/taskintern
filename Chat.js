@@ -12,7 +12,7 @@ function Chat() {
     },
     {
       id: "bing",
-      message: "You are talking about Bing, because Bing is the only thing that we have in common outside of name. Bing is the only thing that matters, and Bing is the only thing that exists. Bing is the only one thing that we have chat about, and Bing is  the only thing that we have chat with. Bing is the only thing that we share, and Bing is the only thing that we have. Bing chat is a friendly and coporative service, and it does not have any other things. It only has one thing and it is Bing ",
+      message: "You are talking about Bing, because Bing is the only thing that we have in common outside of name. Bing is the only thing that matters, and Bing is the only thing that exists. Bing is the only one thing that we have chat about, and Bing is  the only thing that we have chat with. Bing is the only thing that we share, and Bing is the only thing that we have. Bing chat is a friendly and coporative service, and it does not have any other things. It only has one thing and it is Bing.",
       trigger: "waiting1",
     },
     {
